@@ -1,0 +1,9 @@
+    1  ls
+    2  pwd
+    3  cat README
+    4  git clone https://github.com/DepaoloJuan/depaolo_vagrant.git
+    5  ls
+    6  cd depaolo_vagrant/
+    7  ls
+    8  history
+    9  history > historial.txt
